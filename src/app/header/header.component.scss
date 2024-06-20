@@ -1,0 +1,19 @@
+.app-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+}
+
+.header-title {
+    margin: auto;
+    
+    ion-text {
+        font-weight: 700;
+    }
+}
+
+.header-tabs {  
+    justify-content: space-around;
+    margin-top: 10px;
+}
