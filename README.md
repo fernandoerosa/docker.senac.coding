@@ -15,5 +15,6 @@ npm i -g @ionic/cli && \
 
 - [ ] Criar imagem com multistage build
 - [ ] Usar o usuario Node
+- [ ] Rodar projeto dentro do container
+- [ ] Implementar o docker-compose
 - [ ] Espelhar volumes com o local sem dar problema
-- [ ] Usar Docker-compose
