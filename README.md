@@ -2,7 +2,8 @@
 
 ## Informações para criação da imagem
 
-### Imagem base: node:20.12.2-alpine3.19
+### Imagem base: 
+- node:20.12.2-alpine3.19
 
 ### Comando para configurar a aplicação
 ```shell
@@ -12,7 +13,6 @@ npm i -g @ionic/cli && \
 ```
 
 ### Regras
-
 - [ ] Criar imagem com multistage build
 - [ ] Usar o usuario Node
 - [ ] Espelhar volumes com o local sem dar problema
